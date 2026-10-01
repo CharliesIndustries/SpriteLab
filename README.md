@@ -1,2 +1,3 @@
 # SpriteLab
-Free Pixel-art and Animator Software. (Linux .deb / Windows .exe)
+Free Pixel-art and Animator Software.
+Work with wine for linux users
